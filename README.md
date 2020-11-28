@@ -11,6 +11,6 @@ Thanks!
 
 This repository includes minimal modifications and/or cleaning by Belerofontech.
 
-Easy testing with [Binder](http://binder.org/):
+Easy testing with [Binder](http://mybinder.org/):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/belerofontech/Complete-Python-3-Bootcamp/HEAD)
